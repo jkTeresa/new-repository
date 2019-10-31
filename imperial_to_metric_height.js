@@ -1,4 +1,4 @@
-var myName = 'John Smith';
+var myName = 'John';
 var heightInches = 60;
 var weightPounds = 120;
 var heightCentimeters = heightInches * 2.54;
